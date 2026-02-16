@@ -1,0 +1,22 @@
+# C/GTK Project
+
+# Compiled Object files
+*.o
+
+# Compiled dynamic libraries
+*.so
+
+# Compiled static libraries
+*.a
+
+# Executable files
+*.exe
+
+# IDE specific files
+*.vscode/
+*.idea/
+
+# Backup files
+*~
+*.bak
+*.tmp
